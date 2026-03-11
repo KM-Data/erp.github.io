@@ -1,14 +1,16 @@
 # ERP-System
 - [WinPlan](https://www.dbmanager.fi/ratkaisut/winplan-erp/)
+  WinPlan är ett affärsresursplaneringssystem (ERP) utvecklat för fönster- och dörrindustrins behov.
 - [Kosmosoft](http://www.kosmosoft.eu/en/)
+  Kosmosoft är systemet som ger fönster-, dörr- och skåptillverkare både teoretisk information och praktiska verktyg för att möta framtiden.
 - [RA Workshop](https://www.raworkshop.com/)
 - [DDX PowerWin](https://www.ddxgroup.com/en/wood-working-software/powerwin/)
 - [CalWin](http://calwin.no/)
 - [Klaes ERP](https://www.klaes.de/en-klaes-software)
-- [MatrixWindows]()
-- [WindowMaker]()
-- [Emmegisoft]()
-- [COBUS doors professional]()
+- [MatrixWindows](https://www.matrix-software.com/windowframe/matrix-windows-wood)
+- [WindowMaker](https://windowmaker.com/en/Index)
+- [Emmegisoft](https://www.emmegisoft.com/en/home)
+- [COBUS doors professional](https://www.cobus-concept.com/en/products/components/interior-doors)
 - [FeneVision]()
 - [Axis ADWOQS]()
 - [Monitor ERP-system]()
@@ -22,9 +24,9 @@
 - [Elcia]()
 
 ## Online cloud ERP
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Odoo]()
+- [iDempiere]()
+- [webERP]()
+- [ERPnext]()
+- [GoodDay]()
 - []()  
